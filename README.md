@@ -1,7 +1,15 @@
-# Python-FastICA
-Implementation and optimization of FastICA algorithm in Python
+# STA 663 Final Project
 
-Colone the GitHub repository first, and then follow the steps below to install the FastICA package. An test example is also provided.
+## Implementation and optimization of FastICA algorithm in Python
+
+#### Blaire Li, Liwen Zhang
+
+This is Blaire Li and Liwen Zhang's Final Project Report for Duke STA-663.
+
+Please clone our repsository and download dependencies to run our report, "Independent_Component_Analysis.ipynb".
+
+
+To intall our FastICA package, please clone the GitHub repository first, and then follow the steps below. An test example is also provided.
 
 !pip install .
 
