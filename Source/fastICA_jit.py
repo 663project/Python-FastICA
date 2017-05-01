@@ -1,5 +1,5 @@
 
-import scipy
+import scipy.linalg
 import numpy as np
 from numba import jit
 

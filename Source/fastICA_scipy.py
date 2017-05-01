@@ -1,5 +1,6 @@
 
 import scipy
+import scipy.linalg
 import numpy as np
 
 def sym_decorrelation_scipy(W):
